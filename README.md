@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
   <html>
     <head>
     <title>Sabbir's personal website</title>
@@ -7,9 +7,7 @@
 
 <h1>Welcome to my website</h1>
 <img src="sabbir9.png" alt="Third slide" style="width:400px;height:600px;">
-</div>
-</style>
-</head>
+
 <body>
     
                                                           
@@ -34,12 +32,12 @@
   <p>Here is my instagram id.You can also contact me here if you need.You may follow me in instagram.Thank you!</p>
    </h4>
   <h4>
-  Leave your opinion:<input type="Comments"></input>
+  Leave your opinion:<input type="Comments">
   </h4>
 
-  <br></br>
+  <br>
   <button>Submit</button>
 
 
    </body>
-  </html> 
+
